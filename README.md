@@ -1,4 +1,4 @@
-<DOCTYPEhtml>
+<DOCTYPE html>
 <hyml lamg="pt-br">
 <head> 
  <meta charset="UTF-8">
@@ -7,7 +7,7 @@
    </head>
    <body>
    <header>
-   <h1>como jogar</h1>
+   <h1>como jogar Rocket league</h1>
    </header>
    </body>
    </html>
